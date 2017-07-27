@@ -847,9 +847,10 @@ throw new RuntimeException(e);
 ```
 # Screenshots
 ![bootstrap.html](https://github.com/santhoshRJ/MyServlet/blob/master/images/Login.png)
-![bootsrap1.html](https://github.com/santhoshRJ/MyServlet/blob/master/images/Login.png)
-![action.html](https://github.com/santhoshRJ/MyServlet/blob/master/images/Login.png)
-![delete.html](https://github.com/santhoshRJ/MyServlet/blob/master/images/Login.png)
-![update.html](https://github.com/santhoshRJ/MyServlet/blob/master/images/Login.png)
-![Edit.html](https://github.com/santhoshRJ/MyServlet/blob/master/images/Login.png)
-![DispalyAll](https://github.com/santhoshRJ/MyServlet/blob/master/images/Login.png)
+![bootsrap1.html](https://github.com/santhoshRJ/MyServlet/blob/master/images/Register.png)
+![Insertmessage](https://github.com/santhoshRJ/MyServlet/blob/master/images/message.png)
+![action.html](https://github.com/santhoshRJ/MyServlet/blob/master/images/Action.png)
+![delete.html](https://github.com/santhoshRJ/MyServlet/blob/master/images/delete.png)
+![update.html](https://github.com/santhoshRJ/MyServlet/blob/master/images/Updateindex.png)
+![Edit.html](https://github.com/santhoshRJ/MyServlet/blob/master/images/Edit.png)
+![DispalyAll](https://github.com/santhoshRJ/MyServlet/blob/master/images/Display.png)
