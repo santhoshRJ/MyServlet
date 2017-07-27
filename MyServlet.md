@@ -847,3 +847,9 @@ throw new RuntimeException(e);
 ```
 # Screenshots
 ![bootstrap.html](https://github.com/santhoshRJ/MyServlet/blob/master/images/Login.png)
+![bootsrap1.html](https://github.com/santhoshRJ/MyServlet/blob/master/images/Login.png)
+![action.html](https://github.com/santhoshRJ/MyServlet/blob/master/images/Login.png)
+![delete.html](https://github.com/santhoshRJ/MyServlet/blob/master/images/Login.png)
+![update.html](https://github.com/santhoshRJ/MyServlet/blob/master/images/Login.png)
+![Edit.html](https://github.com/santhoshRJ/MyServlet/blob/master/images/Login.png)
+![DispalyAll](https://github.com/santhoshRJ/MyServlet/blob/master/images/Login.png)
