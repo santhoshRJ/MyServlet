@@ -812,7 +812,7 @@ public class mainservlet extends HttpServlet {
         public static void sendEmail(String to,String ddd)
 {
 final String username = "santhoshkumar.a@kggroup.com";
-final String password = "$anthosh10";
+final String password = "************";
 Properties props = new Properties();
 props.put("mail.smtp.auth", "true");
 props.put("mail.smtp.starttls.enable", "false");
